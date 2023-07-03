@@ -1,0 +1,9 @@
+During my fellowship, I have focused on learning the basics of Flutter. I dedicated a lot of time to understand this framework, which allows me to build apps that work on different platforms. I started by learning Dart, the programming language that Flutter uses. This helped me understand how to write code properly.
+
+After that, I learned about widgets, which are the building blocks of Flutter. They help create the user interface of the app. I learned how to use different types of widgets and how to arrange them to make the app look good. I also learned how to customize widgets to fit my needs.
+
+To make my apps more interactive, I learned about Riverpod statemanagement it helped me manage data and make sure the app responds well to changes.
+
+I also learned about handling user input, moving between different screens, and connecting my app to other services. This allowed me to create more functional and complete apps.
+
+Throughout the fellowship, I had the chance to work on real projects, which helped me apply what I learned. Now, I feel more confident in my ability to create mobile apps with Flutter. I'm excited to keep exploring and expanding my knowledge in this field.
